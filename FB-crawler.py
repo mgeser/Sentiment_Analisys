@@ -8,7 +8,7 @@ import re
 corpus = []
 datasets = []
 
-graph = fb.GraphAPI(access_token="EAAgnVUGlUy4BAL1jcEVu8Yqz978h67EiK0cQUKPvcvZAhgtjVihzMZAKQgRCZClnhRDC2Cc5dhfOwLZAKyG6miLlBPI8V5KlmqKXgPexZAK7qh929uNfjpCzTRgS2kuvumreZAs8orgPdINIdybFxUJYrU4Lf2xSdv5NODpVjGk69SeNtmiH2ZCBGqt60W6wwwZD")
+graph = fb.GraphAPI(access_token="Input_your_Facebook-Dev_token_here")
 
 # KATA KUNCI SEARCH
 key = '2019GantiPresiden'
